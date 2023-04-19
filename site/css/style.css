@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+    background-color: cyan;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    margin: 0 auto;
+
+
+}
+
+table {
+    width: 60%;
+}
+
+th {
+    height: 70px;
+}
+body{
+    background-color: cyan;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
