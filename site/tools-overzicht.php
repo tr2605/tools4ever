@@ -49,6 +49,7 @@ $all_tools = mysqli_fetch_all($result, MYSQLI_ASSOC);
                 </tr>
             <?php endforeach; ?>
         </table>
+        <a href="nieuw-product.php">nieuw product erin zetten</a>
 
 </body>
 
