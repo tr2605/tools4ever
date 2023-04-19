@@ -28,3 +28,16 @@ body{
     background-color: cyan;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+body{
+    background-color: cyan;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+label{
+    display: inline-block;
+    width: 125px;
+}
+
+.form-group{
+    margin: 10px 0px;
+}

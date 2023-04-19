@@ -50,6 +50,7 @@ $all_tools = mysqli_fetch_all($result, MYSQLI_ASSOC);
             <?php endforeach; ?>
         </table>
         <a href="nieuw-product.php">nieuw product erin zetten</a>
+        <a href="nieuw-gebruiker.php">nieuwe gebruiker registreren</a>
 
 </body>
 

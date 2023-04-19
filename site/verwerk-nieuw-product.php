@@ -1,4 +1,7 @@
 <?php
+if(is_numeric($_POST['prijsProduct'])){
+  echo'number found';
+}
 $naam      = $_POST['naamProduct'];
 $merk      = $_POST['merkProduct'];
 $categorie = $_POST['categorieProduct'];
